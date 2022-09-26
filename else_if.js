@@ -12,7 +12,7 @@ if (weight < 250) {
   console.log("配送料200円");
 } else if (weight < 500); {
   console.log("配送料400円");
-} elseif (weight < 1000) {
+} else if (weight < 1000) {
   console.log("配送料600円");
 } else {
   console.log("取り扱いできません");
